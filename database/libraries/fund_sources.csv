@@ -1,0 +1,27 @@
+id,parent_id,type_id,source_name,source_abbr
+1,1,1,SRDS,SRDS
+2,1,1,PHM,PHM
+3,1,1,RHR,RHR
+4,1,2,Support to Regional Delivery Services,Support to Regional Delivery Services
+5,1,2,Regional Health Regulations,Regional Health Regulations
+6,1,2,Public Health Management,Public Health Management
+7,1,2,Health Emergency Preparedness and Response,Health Emergency Preparedness and Response
+8,1,3,Infrastructure,Infrastructure
+9,1,3,Medical Equipments,Medical Equipments
+10,2,1,SRDS,SRDS
+11,2,1,PHM,PHM
+12,2,1,RHR,RHR
+13,2,2,Support to Regional Delivery Services,Support to Regional Delivery Services
+14,2,2,Regional Health Regulations,Regional Health Regulations
+15,2,2,Public Health Management,Public Health Management
+16,2,2,Health Emergency Preparedness and Response,Health Emergency Preparedness and Response
+17,2,3,Infrastructure,Infrastructure
+18,2,3,Medical Equipments,Medical Equipments
+19,3,1,SARO SAMPLE,SARO SAMPLE
+20,3,1,SARO SAMPLE,SARO SAMPLE
+21,1,1,LHSDA,LHSDA
+22,1,1,Health Promo,Health Promotion
+23,1,1,ICM,ICM
+24,1,1,HSRD,HSRD
+25,1,1,HEM,HEM
+26,1,2,PHM,PHM

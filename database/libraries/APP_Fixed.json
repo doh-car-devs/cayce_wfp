@@ -1,0 +1,3711 @@
+[{
+        "ID": 1,
+        "APP_DBM_ID": 1,
+        "Slug": "10191509-IN-A01",
+        "Item": "INSECTICIDE, aerosol type, net content: 600ml min",
+        "unit_of_measure": "can",
+        "Type": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 139.36
+    },
+    {
+        "ID": 2,
+        "APP_DBM_ID": 2,
+        "Slug": "12191601-AL-E01",
+        "Item": "ALCOHOL, ethyl, 68%-70%, scented, 500ml (-5ml)",
+        "unit_of_measure": "bottle",
+        "Type": "Solvents",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 43.79
+    },
+    {
+        "ID": 3,
+        "APP_DBM_ID": 3,
+        "Slug": "12171703-SI-P01",
+        "Item": "STAMP PAD INK, purple or violet",
+        "unit_of_measure": "bottle",
+        "Type": "Color Compounds and Dispersions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 30.8
+    },
+    {
+        "ID": 4,
+        "APP_DBM_ID": 4,
+        "Slug": "13111203-AC-F01",
+        "Item": "ACETATE, thickness: 0.075mm min (gauge #3)",
+        "unit_of_measure": "roll",
+        "Type": "Films",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 847.82
+    },
+    {
+        "ID": 5,
+        "APP_DBM_ID": 5,
+        "Slug": "13111201-CF-P01",
+        "Item": "CARBON FILM, PE, black, size 210mm x 297mm",
+        "unit_of_measure": "box",
+        "Type": "Films",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 221
+    },
+    {
+        "ID": 6,
+        "APP_DBM_ID": 6,
+        "Slug": "13111201-CF-P02",
+        "Item": "CARBON FILM, PE, black, size 216mm x 330mm",
+        "unit_of_measure": "box",
+        "Type": "Films",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 208.52
+    },
+    {
+        "ID": 7,
+        "APP_DBM_ID": 7,
+        "Slug": "14111525-CA-A01",
+        "Item": "CARTOLINA, assorted colors",
+        "unit_of_measure": "pack",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 83.72
+    },
+    {
+        "ID": 8,
+        "APP_DBM_ID": 8,
+        "Slug": "14111506-CF-L11",
+        "Item": "CONTINUOUS FORM, 1 PLY, 280 x 241mm",
+        "unit_of_measure": "box",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 682.24
+    },
+    {
+        "ID": 9,
+        "APP_DBM_ID": 9,
+        "Slug": "14111506-CF-L12",
+        "Item": "CONTINUOUS FORM, 1 PLY, 280 x 378mm",
+        "unit_of_measure": "box",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1029.6
+    },
+    {
+        "ID": 10,
+        "APP_DBM_ID": 10,
+        "Slug": "14111506-CF-L22",
+        "Item": "CONTINUOUS FORM, 2 ply, 280 x 378mm, carbonless",
+        "unit_of_measure": "box",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1528.8
+    },
+    {
+        "ID": 11,
+        "APP_DBM_ID": 11,
+        "Slug": "14111506-CF-L21",
+        "Item": "CONTINUOUS FORM, 2 ply, 280mm x 241mm, carbonless",
+        "unit_of_measure": "box",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 906.36
+    },
+    {
+        "ID": 12,
+        "APP_DBM_ID": 12,
+        "Slug": "14111506-CF-L31",
+        "Item": "CONTINUOUS FORM, 3 PLY, 280 x 241mm, carbonless",
+        "unit_of_measure": "box",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 884
+    },
+    {
+        "ID": 13,
+        "APP_DBM_ID": 13,
+        "Slug": "14111506-CF-L32",
+        "Item": "CONTINUOUS FORM, 3 PLY, 280 x 378mm, carbonless",
+        "unit_of_measure": "box",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1508
+    },
+    {
+        "ID": 14,
+        "APP_DBM_ID": 14,
+        "Slug": "14111609-LL-C01",
+        "Item": "LOOSELEAF COVER, made of chipboard, for legal",
+        "unit_of_measure": "bundle",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 794.96
+    },
+    {
+        "ID": 15,
+        "APP_DBM_ID": 15,
+        "Slug": "14111514-NP-S02",
+        "Item": "NOTE PAD, stick on, 50mm x 76mm (2\" x 3\") min",
+        "unit_of_measure": "pad",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 37.06
+    },
+    {
+        "ID": 16,
+        "APP_DBM_ID": 16,
+        "Slug": "14111514-NP-S04",
+        "Item": "NOTE PAD, stick on, 76mm x 100mm (3\" x 4\") min",
+        "unit_of_measure": "pad",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 59.28
+    },
+    {
+        "ID": 17,
+        "APP_DBM_ID": 17,
+        "Slug": "14111514-NP-S03",
+        "Item": "NOTE PAD, stick on, 76mm x 76mm (3\" x 3\") min",
+        "unit_of_measure": "pad",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 47.73
+    },
+    {
+        "ID": 18,
+        "APP_DBM_ID": 18,
+        "Slug": "14111514-NB-S01",
+        "Item": "NOTEBOOK, STENOGRAPHER, spiral, 40 leaves",
+        "unit_of_measure": "piece",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 12.04
+    },
+    {
+        "ID": 19,
+        "APP_DBM_ID": 19,
+        "Slug": "14111507-PP-M01",
+        "Item": "PAPER, MULTICOPY, 80gsm, size: 210mm x 297mm",
+        "unit_of_measure": "ream",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 170.56
+    },
+    {
+        "ID": 20,
+        "APP_DBM_ID": 20,
+        "Slug": "14111507-PP-M02",
+        "Item": "PAPER, MULTICOPY, 80gsm, size: 216mm x 330mm",
+        "unit_of_measure": "ream",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 181.42
+    },
+    {
+        "ID": 21,
+        "APP_DBM_ID": 21,
+        "Slug": "14111507-PP-C01",
+        "Item": "PAPER, Multi-Purpose (COPY) A4, 70 gsm",
+        "unit_of_measure": "ream",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 128.44
+    },
+    {
+        "ID": 22,
+        "APP_DBM_ID": 22,
+        "Slug": "14111507-PP-C02",
+        "Item": "PAPER, Multi-Purpose (COPY) Legal, 70 gsm",
+        "unit_of_measure": "ream",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 169.4
+    },
+    {
+        "ID": 23,
+        "APP_DBM_ID": 23,
+        "Slug": "14111531-PP-R01",
+        "Item": "PAPER, PAD, ruled, size: 216mm x 330mm (� 2mm)",
+        "unit_of_measure": "pad",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 29.12
+    },
+    {
+        "ID": 24,
+        "APP_DBM_ID": 24,
+        "Slug": "14111503-PA-P01",
+        "Item": "PAPER, PARCHMENT, size: 210 x 297mm, multi-purpose",
+        "unit_of_measure": "ream",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 101.71
+    },
+    {
+        "ID": 25,
+        "APP_DBM_ID": 25,
+        "Slug": "14111818-TH-P02",
+        "Item": "PAPER, THERMAL, 55gsm, size: 216mm�1mm x 30m-0.3m",
+        "unit_of_measure": "roll",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 55.64
+    },
+    {
+        "ID": 26,
+        "APP_DBM_ID": 26,
+        "Slug": "14111531-RE-B01",
+        "Item": "RECORD BOOK, 300 PAGES, size: 214mm x 278mm min",
+        "unit_of_measure": "book",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 70.72
+    },
+    {
+        "ID": 27,
+        "APP_DBM_ID": 27,
+        "Slug": "14111531-RE-B02",
+        "Item": "RECORD BOOK, 500 PAGES, size: 214mm x 278mm min",
+        "unit_of_measure": "book",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 101.92
+    },
+    {
+        "ID": 28,
+        "APP_DBM_ID": 28,
+        "Slug": "14111704-TT-P02",
+        "Item": "TOILET TISSUE PAPER 2-plys sheets, 150 pulls",
+        "unit_of_measure": "pack",
+        "Type": "Paper Materials and Products",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 87.4
+    },
+    {
+        "ID": 29,
+        "APP_DBM_ID": 29,
+        "Slug": "26111702-BT-A02",
+        "Item": "BATTERY, dry cell, AA, 2 pieces per blister pack",
+        "unit_of_measure": "pack",
+        "Type": "Batteries and Cells and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 19.73
+    },
+    {
+        "ID": 30,
+        "APP_DBM_ID": 30,
+        "Slug": "26111702-BT-A01",
+        "Item": "BATTERY, dry cell, AAA, 2 pieces per blister pack",
+        "unit_of_measure": "pack",
+        "Type": "Batteries and Cells and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 19.73
+    },
+    {
+        "ID": 31,
+        "APP_DBM_ID": 31,
+        "Slug": "26111702-BT-A03",
+        "Item": "BATTERY, dry cell, D, 1.5 volts, alkaline",
+        "unit_of_measure": "pack",
+        "Type": "Batteries and Cells and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 96.2
+    },
+    {
+        "ID": 32,
+        "APP_DBM_ID": 32,
+        "Slug": "31201610-GL-J01",
+        "Item": "GLUE, all purpose, gross weight: 200 grams min",
+        "unit_of_measure": "jar",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 62.1
+    },
+    {
+        "ID": 33,
+        "APP_DBM_ID": 33,
+        "Slug": "31151804-SW-H01",
+        "Item": "STAPLE WIRE, for heavy duty staplers, (23/13)",
+        "unit_of_measure": "box",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 19.76
+    },
+    {
+        "ID": 34,
+        "APP_DBM_ID": 34,
+        "Slug": "31151804-SW-S01",
+        "Item": "STAPLE WIRE, STANDARD, (26/6)",
+        "unit_of_measure": "box",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 22.55
+    },
+    {
+        "ID": 35,
+        "APP_DBM_ID": 35,
+        "Slug": "31201502-TA-E01",
+        "Item": "TAPE, ELECTRICAL, 18mm x 16M min",
+        "unit_of_measure": "roll",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 18.67
+    },
+    {
+        "ID": 36,
+        "APP_DBM_ID": 36,
+        "Slug": "31201503-TA-M01",
+        "Item": "TAPE, MASKING, width: 24mm (�1mm)",
+        "unit_of_measure": "roll",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 54.6
+    },
+    {
+        "ID": 37,
+        "APP_DBM_ID": 37,
+        "Slug": "31201503-TA-M02",
+        "Item": "TAPE, MASKING, width: 48mm (�1mm)",
+        "unit_of_measure": "roll",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 106.6
+    },
+    {
+        "ID": 38,
+        "APP_DBM_ID": 38,
+        "Slug": "31201517-TA-P01",
+        "Item": "TAPE, PACKAGING, width: 48mm (�1mm)",
+        "unit_of_measure": "roll",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 19.97
+    },
+    {
+        "ID": 39,
+        "APP_DBM_ID": 39,
+        "Slug": "31201512-TA-T01",
+        "Item": "TAPE, TRANSPARENT, width: 24mm (�1mm)",
+        "unit_of_measure": "roll",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 10.09
+    },
+    {
+        "ID": 40,
+        "APP_DBM_ID": 40,
+        "Slug": "31201512-TA-T02",
+        "Item": "TAPE, TRANSPARENT, width: 48mm (�1mm)",
+        "unit_of_measure": "roll",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 19.97
+    },
+    {
+        "ID": 41,
+        "APP_DBM_ID": 41,
+        "Slug": "31151507-TW-P01",
+        "Item": "TWINE, plastic, one (1) kilo per roll",
+        "unit_of_measure": "roll",
+        "Type": "Manufacturing Components and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 58.24
+    },
+    {
+        "ID": 42,
+        "APP_DBM_ID": 42,
+        "Slug": "40101604-EF-G01",
+        "Item": "ELECTRIC FAN, INDUSTRIAL, ground type, metal blade",
+        "unit_of_measure": "unit",
+        "Type": "Heating and Ventilation and Air Circulation",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1109.68
+    },
+    {
+        "ID": 43,
+        "APP_DBM_ID": 43,
+        "Slug": "40101604-EF-C01",
+        "Item": "ELECTRIC FAN, ORBIT type, ceiling,  metal blade",
+        "unit_of_measure": "unit",
+        "Type": "Heating and Ventilation and Air Circulation",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1369.68
+    },
+    {
+        "ID": 44,
+        "APP_DBM_ID": 44,
+        "Slug": "40101604-EF-S01",
+        "Item": "ELECTRIC FAN, STAND type, plastic blade",
+        "unit_of_measure": "unit",
+        "Type": "Heating and Ventilation and Air Circulation",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 856.88
+    },
+    {
+        "ID": 45,
+        "APP_DBM_ID": 45,
+        "Slug": "40101604-EF-W01",
+        "Item": "ELECTRIC FAN, WALL type, plastic blade",
+        "unit_of_measure": "unit",
+        "Type": "Heating and Ventilation and Air Circulation",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 770.11
+    },
+    {
+        "ID": 46,
+        "APP_DBM_ID": 46,
+        "Slug": "39101605-FL-T01",
+        "Item": "FLUORESCENT LAMP,  18 WATTS, linear tubular (T8)",
+        "unit_of_measure": "piece",
+        "Type": "Lighting and Fixtures and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 39.39
+    },
+    {
+        "ID": 47,
+        "APP_DBM_ID": 47,
+        "Slug": "39101628-LB-L01",
+        "Item": "Ligth Bulb, LED, 7 watts 1 pc in individual box",
+        "unit_of_measure": "piece",
+        "Type": "Lighting and Fixtures and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 82.16
+    },
+    {
+        "ID": 48,
+        "APP_DBM_ID": 48,
+        "Slug": "41111604-RU-P02",
+        "Item": "RULER, plastic, 450mm (18\"), width: 38mm min",
+        "unit_of_measure": "piece",
+        "Type": "Measuring and Observing and Testing Equipment",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 17.68
+    },
+    {
+        "ID": 49,
+        "APP_DBM_ID": 49,
+        "Slug": "47131812-AF-A01",
+        "Item": "AIR FRESHENER, aerosol, 280ml/150g min",
+        "unit_of_measure": "can",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 86.06
+    },
+    {
+        "ID": 50,
+        "APP_DBM_ID": 50,
+        "Slug": "47131604-BR-S01",
+        "Item": "BROOM, soft (tambo)",
+        "unit_of_measure": "piece",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 136.24
+    },
+    {
+        "ID": 51,
+        "APP_DBM_ID": 51,
+        "Slug": "47131604-BR-T01",
+        "Item": "BROOM, STICK (TING-TING), usable length: 760mm min",
+        "unit_of_measure": "piece",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 18.2
+    },
+    {
+        "ID": 52,
+        "APP_DBM_ID": 52,
+        "Slug": "47131829-TB-C01",
+        "Item": "CLEANER,TOILET BOWL AND URINAL, 900ml-1000ml cap",
+        "unit_of_measure": "bottle",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 41.6
+    },
+    {
+        "ID": 53,
+        "APP_DBM_ID": 53,
+        "Slug": "47131805-CL-P01",
+        "Item": "CLEANSER, SCOURING POWDER, 350g min./can",
+        "unit_of_measure": "can",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 23.92
+    },
+    {
+        "ID": 54,
+        "APP_DBM_ID": 54,
+        "Slug": "47131811-DE-B02",
+        "Item": "DETERGENT BAR, 140 grams as packed",
+        "unit_of_measure": "bar",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 9.03
+    },
+    {
+        "ID": 55,
+        "APP_DBM_ID": 55,
+        "Slug": "47131811-DE-P02",
+        "Item": "DETERGENT POWDER, all purpose, 1kg",
+        "unit_of_measure": "pack",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 37.43
+    },
+    {
+        "ID": 56,
+        "APP_DBM_ID": 56,
+        "Slug": "47131803-DS-A01",
+        "Item": "DISINFECTANT SPRAY, aerosol type, 400-550 grams",
+        "unit_of_measure": "can",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 128.96
+    },
+    {
+        "ID": 57,
+        "APP_DBM_ID": 57,
+        "Slug": "47131601-DU-P01",
+        "Item": "DUST PAN, non-rigid plastic, w/ detachable handle",
+        "unit_of_measure": "piece",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 24.83
+    },
+    {
+        "ID": 58,
+        "APP_DBM_ID": 58,
+        "Slug": "47131802-FW-P02",
+        "Item": "FLOOR WAX, PASTE, RED",
+        "unit_of_measure": "can",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 309.76
+    },
+    {
+        "ID": 59,
+        "APP_DBM_ID": 59,
+        "Slug": "47131830-FC-A01",
+        "Item": "FURNITURE CLEANER, aerosol type, 300ml min per can",
+        "unit_of_measure": "can",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 115.53
+    },
+    {
+        "ID": 60,
+        "APP_DBM_ID": 60,
+        "Slug": "47121804-MP-B01",
+        "Item": "MOP BUCKET, heavy duty, hard plastic",
+        "unit_of_measure": "unit",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2288
+    },
+    {
+        "ID": 61,
+        "APP_DBM_ID": 61,
+        "Slug": "47131613-MP-H02",
+        "Item": "MOPHANDLE, heavy duty, aluminum, screw type",
+        "unit_of_measure": "piece",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 145.6
+    },
+    {
+        "ID": 62,
+        "APP_DBM_ID": 62,
+        "Slug": "47131619-MP-R01",
+        "Item": "MOPHEAD, made of rayon, weight: 400 grams min",
+        "unit_of_measure": "piece",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 123.76
+    },
+    {
+        "ID": 63,
+        "APP_DBM_ID": 63,
+        "Slug": "47131501-RG-C01",
+        "Item": "RAGS, all cotton, 32 pieces per kilogram min",
+        "unit_of_measure": "bundle",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 53.82
+    },
+    {
+        "ID": 64,
+        "APP_DBM_ID": 64,
+        "Slug": "47131602-SC-N01",
+        "Item": "SCOURING PAD, made of synthetic nylon, 140 x 220mm",
+        "unit_of_measure": "pack",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 107.12
+    },
+    {
+        "ID": 65,
+        "APP_DBM_ID": 65,
+        "Slug": "47121701-TB-P04",
+        "Item": "TRASHBAG, plastic, transparent",
+        "unit_of_measure": "roll",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 134.68
+    },
+    {
+        "ID": 66,
+        "APP_DBM_ID": 66,
+        "Slug": "47121702-WB-P01",
+        "Item": "WASTEBASKET, non-rigid plastic",
+        "unit_of_measure": "piece",
+        "Type": "Cleaning Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 23.59
+    },
+    {
+        "ID": 67,
+        "APP_DBM_ID": 67,
+        "Slug": "43211507-DCT-03",
+        "Item": "Desktop Computer, branded",
+        "unit_of_measure": "unit",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 39208
+    },
+    {
+        "ID": 68,
+        "APP_DBM_ID": 68,
+        "Slug": "43201827-HD-X02",
+        "Item": "EXTERNAL HARD DRIVE, 1TB, 2.5\"HDD, USB 3.0",
+        "unit_of_measure": "piece",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2714
+    },
+    {
+        "ID": 69,
+        "APP_DBM_ID": 69,
+        "Slug": "43202010-FD-U01",
+        "Item": "FLASH DRIVE, 16 GB capacity",
+        "unit_of_measure": "piece",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 167.44
+    },
+    {
+        "ID": 70,
+        "APP_DBM_ID": 70,
+        "Slug": "43211503-LCT-03",
+        "Item": "Laptop Computer, branded",
+        "unit_of_measure": "unit",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 45747.52
+    },
+    {
+        "ID": 71,
+        "APP_DBM_ID": 71,
+        "Slug": "43211708-MO-O01",
+        "Item": "MOUSE, optical, USB connection type",
+        "unit_of_measure": "unit",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 111.3
+    },
+    {
+        "ID": 72,
+        "APP_DBM_ID": 72,
+        "Slug": "43212102-PR-D02",
+        "Item": "PRINTER, IMPACT DOT MATRIX, 24 pins, 136 column",
+        "unit_of_measure": "unit",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 38100.97
+    },
+    {
+        "ID": 73,
+        "APP_DBM_ID": 73,
+        "Slug": "43212102-PR-D01",
+        "Item": "PRINTER, IMPACT DOT MATRIX, 9 pins, 80 columns",
+        "unit_of_measure": "unit",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 9191.52
+    },
+    {
+        "ID": 74,
+        "APP_DBM_ID": 74,
+        "Slug": "43212105-PR-L01",
+        "Item": "PRINTER, LASER, monochrome, network-ready",
+        "unit_of_measure": "unit",
+        "Type": "Information and Communication Technology (ICT) Equipment and Devices and Accessories",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 724.88
+    },
+    {
+        "ID": 75,
+        "APP_DBM_ID": 75,
+        "Slug": "44121710-CH-W01",
+        "Item": "CHALK, molded, white, dustless, length: 78mm min",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 29.64
+    },
+    {
+        "ID": 76,
+        "APP_DBM_ID": 76,
+        "Slug": "44122105-BF-C01",
+        "Item": "CLIP, BACKFOLD, all metal, clamping: 19mm (-1mm)",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 9.05
+    },
+    {
+        "ID": 77,
+        "APP_DBM_ID": 77,
+        "Slug": "44122105-BF-C02",
+        "Item": "CLIP, BACKFOLD, all metal, clamping: 25mm (-1mm)",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 15.27
+    },
+    {
+        "ID": 78,
+        "APP_DBM_ID": 78,
+        "Slug": "44122105-BF-C03",
+        "Item": "CLIP, BACKFOLD, all metal, clamping: 32mm (-1mm)",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 20.8
+    },
+    {
+        "ID": 79,
+        "APP_DBM_ID": 79,
+        "Slug": "44122105-BF-C04",
+        "Item": "CLIP, BACKFOLD, all metal, clamping: 50mm (-1mm)",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 47.84
+    },
+    {
+        "ID": 80,
+        "APP_DBM_ID": 80,
+        "Slug": "44121801-CT-R01",
+        "Item": "CORRECTION TAPE, film base type, UL 6m min",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 14.02
+    },
+    {
+        "ID": 81,
+        "APP_DBM_ID": 81,
+        "Slug": "44111515-DF-B01",
+        "Item": "DATA FILE BOX, made of chipboard, with closed ends",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 77.2
+    },
+    {
+        "ID": 82,
+        "APP_DBM_ID": 82,
+        "Slug": "44122011-DF-F01",
+        "Item": "DATA FOLDER, made of chipboard, taglia lock",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 68.64
+    },
+    {
+        "ID": 83,
+        "APP_DBM_ID": 83,
+        "Slug": "44121506-EN-D01",
+        "Item": "ENVELOPE, DOCUMENTARY, for A4 size document",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 673.09
+    },
+    {
+        "ID": 84,
+        "APP_DBM_ID": 84,
+        "Slug": "44121506-EN-D02",
+        "Item": "ENVELOPE, DOCUMENTARY, for legal size document",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 927.16
+    },
+    {
+        "ID": 85,
+        "APP_DBM_ID": 85,
+        "Slug": "44121506-EN-X01",
+        "Item": "ENVELOPE, EXPANDING, KRAFTBOARD,for legal size doc",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 738.4
+    },
+    {
+        "ID": 86,
+        "APP_DBM_ID": 86,
+        "Slug": "44121506-EN-X02",
+        "Item": "ENVELOPE, EXPANDING, PLASTIC, 0.50mm thickness min",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 30.4928
+    },
+    {
+        "ID": 87,
+        "APP_DBM_ID": 87,
+        "Slug": "44121506-EN-M02",
+        "Item": "ENVELOPE, MAILING,white, 80gsm (-5%)",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 362.44
+    },
+    {
+        "ID": 88,
+        "APP_DBM_ID": 88,
+        "Slug": "44121504-EN-W02",
+        "Item": "ENVELOPE, mailing, white, with window",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 414.13
+    },
+    {
+        "ID": 89,
+        "APP_DBM_ID": 89,
+        "Slug": "44111912-ER-B01",
+        "Item": "ERASER, FELT, for blackboard/whiteboard",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 10.3
+    },
+    {
+        "ID": 90,
+        "APP_DBM_ID": 90,
+        "Slug": "44122118-FA-P01",
+        "Item": "FASTENER, METAL, 70mm between prongs",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 83.41
+    },
+    {
+        "ID": 91,
+        "APP_DBM_ID": 91,
+        "Slug": "44111515-FO-X01",
+        "Item": "FILE ORGANIZER, expanding, plastic, 12 pockets",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 86.04
+    },
+    {
+        "ID": 92,
+        "APP_DBM_ID": 92,
+        "Slug": "44122018-FT-D01",
+        "Item": "FILE TAB DIVIDER, bristol board, for A4",
+        "unit_of_measure": "set",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 11.13
+    },
+    {
+        "ID": 93,
+        "APP_DBM_ID": 93,
+        "Slug": "44122018-FT-D02",
+        "Item": "FILE TAB DIVIDER, bristol board, for legal",
+        "unit_of_measure": "set",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 14.23
+    },
+    {
+        "ID": 94,
+        "APP_DBM_ID": 94,
+        "Slug": "44122011-FO-F01",
+        "Item": "FOLDER, FANCY, for A4 size documents",
+        "unit_of_measure": "bundle",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 270.4
+    },
+    {
+        "ID": 95,
+        "APP_DBM_ID": 95,
+        "Slug": "44122011-FO-F02",
+        "Item": "FOLDER, FANCY, for legal size documents",
+        "unit_of_measure": "bundle",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 311.88
+    },
+    {
+        "ID": 96,
+        "APP_DBM_ID": 96,
+        "Slug": "44122011-FO-L01",
+        "Item": "FOLDER, L-TYPE, PLASTIC, for A4 size documents",
+        "unit_of_measure": "pack",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 187.08
+    },
+    {
+        "ID": 97,
+        "APP_DBM_ID": 97,
+        "Slug": "44122011-FO-L02",
+        "Item": "FOLDER, L-TYPE, PLASTIC, for legal size documents",
+        "unit_of_measure": "pack",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 243.24
+    },
+    {
+        "ID": 98,
+        "APP_DBM_ID": 98,
+        "Slug": "44122027-FO-P01",
+        "Item": "FOLDER, PRESSBOARD, size: 240mm x 370mm (-5mm)",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 952.64
+    },
+    {
+        "ID": 99,
+        "APP_DBM_ID": 99,
+        "Slug": "44122011-FO-T03",
+        "Item": "FOLDER, TAGBOARD, for A4 size documents",
+        "unit_of_measure": "pack",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 279
+    },
+    {
+        "ID": 100,
+        "APP_DBM_ID": 100,
+        "Slug": "44122011-FO-T04",
+        "Item": "FOLDER, TAGBOARD, for legal size documents",
+        "unit_of_measure": "pack",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 321.36
+    },
+    {
+        "ID": 101,
+        "APP_DBM_ID": 101,
+        "Slug": "44122008-IT-T01",
+        "Item": "INDEX TAB, self-adhesive, transparent",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 53.14
+    },
+    {
+        "ID": 102,
+        "APP_DBM_ID": 102,
+        "Slug": "44111515-MF-B02",
+        "Item": "MAGAZINE FILE BOX, LARGE size, made of chipboard",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 41.6
+    },
+    {
+        "ID": 103,
+        "APP_DBM_ID": 103,
+        "Slug": "44121716-MA-F01",
+        "Item": "MARKER, FLUORESCENT, 3 assorted colors per set",
+        "unit_of_measure": "set",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 44.41
+    },
+    {
+        "ID": 104,
+        "APP_DBM_ID": 104,
+        "Slug": "44121708-MW-B01",
+        "Item": "MARKER, whiteboard, black, felt tip, bullet type",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 13.38
+    },
+    {
+        "ID": 105,
+        "APP_DBM_ID": 105,
+        "Slug": "44121708-MW-B02",
+        "Item": "MARKER, whiteboard, blue, felt tip, bullet type",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 13.38
+    },
+    {
+        "ID": 106,
+        "APP_DBM_ID": 106,
+        "Slug": "44121708-MW-B03",
+        "Item": "MARKER, whiteboard, red, felt tip, bullet type",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 13.38
+    },
+    {
+        "ID": 107,
+        "APP_DBM_ID": 107,
+        "Slug": "44121708-MP-B01",
+        "Item": "MARKER, PERMANENT, bullet type, black",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8.98
+    },
+    {
+        "ID": 108,
+        "APP_DBM_ID": 108,
+        "Slug": "44121708-MP-B02",
+        "Item": "MARKER, PERMANENT, bullet type, blue",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8.98
+    },
+    {
+        "ID": 109,
+        "APP_DBM_ID": 109,
+        "Slug": "44121708-MP-B03",
+        "Item": "MARKER, PERMANENT, bullet type, red",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8.98
+    },
+    {
+        "ID": 110,
+        "APP_DBM_ID": 110,
+        "Slug": "44122104-PC-G01",
+        "Item": "PAPER CLIP, vinyl/plastic coat, length: 32mm min",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7.76
+    },
+    {
+        "ID": 111,
+        "APP_DBM_ID": 111,
+        "Slug": "44122104-PC-J02",
+        "Item": "PAPER CLIP, vinyl/plastic coat, length: 48mm min",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 14.04
+    },
+    {
+        "ID": 112,
+        "APP_DBM_ID": 112,
+        "Slug": "44121706-PE-L01",
+        "Item": "PENCIL, lead, w/ eraser, wood cased, hardness: HB",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 20.79
+    },
+    {
+        "ID": 113,
+        "APP_DBM_ID": 113,
+        "Slug": "44122037-RB-P10",
+        "Item": "RING BINDER, 80 rings, plastic, 32mm x 1.12m",
+        "unit_of_measure": "bundle",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 239.79
+    },
+    {
+        "ID": 114,
+        "APP_DBM_ID": 114,
+        "Slug": "44122101-RU-B01",
+        "Item": "RUBBER BAND, 70mm min lay flat length (#18)",
+        "unit_of_measure": "box",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 109.5
+    },
+    {
+        "ID": 115,
+        "APP_DBM_ID": 115,
+        "Slug": "44121905-SP-F01",
+        "Item": "STAMP PAD, FELT, bed dimension: 60mm x 100mm min",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 34.13
+    },
+    {
+        "ID": 116,
+        "APP_DBM_ID": 116,
+        "Slug": "44121612-BL-H01",
+        "Item": "CUTTER BLADE, for heavy duty cutter",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 14.82
+    },
+    {
+        "ID": 117,
+        "APP_DBM_ID": 117,
+        "Slug": "44121612-CU-H01",
+        "Item": "CUTTER KNIFE, for general purpose",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 33.43
+    },
+    {
+        "ID": 118,
+        "APP_DBM_ID": 118,
+        "Slug": "44103202-DS-M01",
+        "Item": "DATING AND STAMPING MACHINE, heavy duty",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 453.96
+    },
+    {
+        "ID": 119,
+        "APP_DBM_ID": 119,
+        "Slug": "44121619-PS-M01",
+        "Item": "PENCIL SHARPENER, manual, single cutter head",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 202.8
+    },
+    {
+        "ID": 120,
+        "APP_DBM_ID": 120,
+        "Slug": "44101602-PU-P01",
+        "Item": "PUNCHER, paper, heavy duty, with two hole guide",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 131.96
+    },
+    {
+        "ID": 121,
+        "APP_DBM_ID": 121,
+        "Slug": "44121618-SS-S01",
+        "Item": "SCISSORS, symmetrical, blade length: 65mm min",
+        "unit_of_measure": "pair",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 40.56
+    },
+    {
+        "ID": 122,
+        "APP_DBM_ID": 122,
+        "Slug": "44121615-ST-S01",
+        "Item": "STAPLER, STANDARD TYPE, load cap: 200 staples min",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 176.8
+    },
+    {
+        "ID": 123,
+        "APP_DBM_ID": 123,
+        "Slug": "44121615-ST-B01",
+        "Item": "STAPLER, BINDER TYPE, heavy duty, desktop",
+        "unit_of_measure": "unit",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 914.16
+    },
+    {
+        "ID": 124,
+        "APP_DBM_ID": 124,
+        "Slug": "44121613-SR-P01",
+        "Item": "STAPLE REMOVER, PLIER-TYPE",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 24.9
+    },
+    {
+        "ID": 125,
+        "APP_DBM_ID": 125,
+        "Slug": "44121605-TD-T01",
+        "Item": "TAPE DISPENSER, TABLE TOP, for 24mm width tape",
+        "unit_of_measure": "piece",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 55.83
+    },
+    {
+        "ID": 126,
+        "APP_DBM_ID": 126,
+        "Slug": "44101602-PB-M01",
+        "Item": "BINDING AND PUNCHING MACHINE, binding cap: 50mm",
+        "unit_of_measure": "unit",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 9534.72
+    },
+    {
+        "ID": 127,
+        "APP_DBM_ID": 127,
+        "Slug": "44101807-CA-C01",
+        "Item": "CALCULATOR, compact, 12 digits",
+        "unit_of_measure": "unit",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 346.85
+    },
+    {
+        "ID": 128,
+        "APP_DBM_ID": 128,
+        "Slug": "44101714-FX-M01",
+        "Item": "FACSIMILE MACHINE, uses thermal paper",
+        "unit_of_measure": "unit",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5642
+    },
+    {
+        "ID": 129,
+        "APP_DBM_ID": 129,
+        "Slug": "44101601-PT-M01",
+        "Item": "PAPER TRIMMER/CUTTING MACHINE, max paper size: B4",
+        "unit_of_measure": "unit",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 9297.6
+    },
+    {
+        "ID": 130,
+        "APP_DBM_ID": 130,
+        "Slug": "44101603-PS-M01",
+        "Item": "PAPER SHREDDER, cutting width: 3mm-4mm (Entry Level)",
+        "unit_of_measure": "unit",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5699.2
+    },
+    {
+        "ID": 131,
+        "APP_DBM_ID": 131,
+        "Slug": "44101603-PS-M02",
+        "Item": "PAPER SHREDDER, cutting width: 3mm-4mm (Mid-Level)",
+        "unit_of_measure": "unit",
+        "Type": "Office Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 132,
+        "APP_DBM_ID": 132,
+        "Slug": "44103109-BR-D05",
+        "Item": "DRUM CART, BROTHER DR-3455",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6947.2
+    },
+    {
+        "ID": 133,
+        "APP_DBM_ID": 133,
+        "Slug": "44103105-CA-C04",
+        "Item": "INK CART, CANON CL-741, Col.",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 989.04
+    },
+    {
+        "ID": 134,
+        "APP_DBM_ID": 134,
+        "Slug": "44103105-CA-C02",
+        "Item": "INK CART, CANON CL-811, Colored",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1029.6
+    },
+    {
+        "ID": 135,
+        "APP_DBM_ID": 135,
+        "Slug": "44103105-CA-B04",
+        "Item": "INK CART, CANON PG-740, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 754
+    },
+    {
+        "ID": 136,
+        "APP_DBM_ID": 136,
+        "Slug": "44103105-CA-B02",
+        "Item": "INK CART, CANON PG-810, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 780
+    },
+    {
+        "ID": 137,
+        "APP_DBM_ID": 137,
+        "Slug": "44103105-EP-B17",
+        "Item": "INK CART, EPSON C13T664100 (T6641), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 249.6
+    },
+    {
+        "ID": 138,
+        "APP_DBM_ID": 138,
+        "Slug": "44103105-EP-C17",
+        "Item": "INK CART, EPSON C13T664200 (T6642), Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 249.6
+    },
+    {
+        "ID": 139,
+        "APP_DBM_ID": 139,
+        "Slug": "44103105-EP-M17",
+        "Item": "INK CART, EPSON C13T664300 (T6643), Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 249.6
+    },
+    {
+        "ID": 140,
+        "APP_DBM_ID": 140,
+        "Slug": "44103105-EP-Y17",
+        "Item": "INK CART, EPSON C13T664400 (T6644), Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 249.6
+    },
+    {
+        "ID": 141,
+        "APP_DBM_ID": 141,
+        "Slug": "44103105-HP-B40",
+        "Item": "INK CART, HP C2P04AA (HP62) Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 773.76
+    },
+    {
+        "ID": 142,
+        "APP_DBM_ID": 142,
+        "Slug": "44103105-HP-T40",
+        "Item": "INK CART, HP C2P06AA (HP62) Tri-color",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 950.56
+    },
+    {
+        "ID": 143,
+        "APP_DBM_ID": 143,
+        "Slug": "44103105-HP-B09",
+        "Item": "INK CART, HP C9351AA, (HP21), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 795.6
+    },
+    {
+        "ID": 144,
+        "APP_DBM_ID": 144,
+        "Slug": "44103105-HP-T10",
+        "Item": "INK CART, HP C9352AA, (HP22), Tri-color",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 920.4
+    },
+    {
+        "ID": 145,
+        "APP_DBM_ID": 145,
+        "Slug": "44103105-HP-T30",
+        "Item": "INK CART, HP C9363WA, (HP97), Tri-color",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1492.4
+    },
+    {
+        "ID": 146,
+        "APP_DBM_ID": 146,
+        "Slug": "44103105-HP-P48",
+        "Item": "INK CART, HP C9397A (HP72) 69ml Photo Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1996.8
+    },
+    {
+        "ID": 147,
+        "APP_DBM_ID": 147,
+        "Slug": "44103105-HP-C48",
+        "Item": "INK CART, HP C9398A (HP72) 69ml Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1996.8
+    },
+    {
+        "ID": 148,
+        "APP_DBM_ID": 148,
+        "Slug": "44103105-HP-M48",
+        "Item": "INK CART, HP C9399A (HP72) 69ml Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1996.8
+    },
+    {
+        "ID": 149,
+        "APP_DBM_ID": 149,
+        "Slug": "44103105-HP-Y48",
+        "Item": "INK CART, HP C9400A (HP72) 69ml Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1996.8
+    },
+    {
+        "ID": 150,
+        "APP_DBM_ID": 150,
+        "Slug": "44103105-HP-G48",
+        "Item": "INK CART, HP C9401A (HP72) 69ml Gray",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1996.8
+    },
+    {
+        "ID": 151,
+        "APP_DBM_ID": 151,
+        "Slug": "44103105-HP-B48",
+        "Item": "INK CART, HP C9403A (HP72) 130ml Matte Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3016
+    },
+    {
+        "ID": 152,
+        "APP_DBM_ID": 152,
+        "Slug": "44103105-HP-B17",
+        "Item": "INK CART, HP CC640WA, (HP60),  Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 769.6
+    },
+    {
+        "ID": 153,
+        "APP_DBM_ID": 153,
+        "Slug": "44103105-HP-T17",
+        "Item": "INK CART, HP CC643WA, (HP60), Tri-color",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 915.2
+    },
+    {
+        "ID": 154,
+        "APP_DBM_ID": 154,
+        "Slug": "44103105-HP-B35",
+        "Item": "INK CART, HP CD887AA, (HP703), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 366.08
+    },
+    {
+        "ID": 155,
+        "APP_DBM_ID": 155,
+        "Slug": "44103105-HP-T35",
+        "Item": "INK CART, HP CD888AA, (HP703), Tri-color",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 366.08
+    },
+    {
+        "ID": 156,
+        "APP_DBM_ID": 156,
+        "Slug": "44103105-HX-C40",
+        "Item": "INK CART, HP CD972AA, (HP 920XL), Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 641.68
+    },
+    {
+        "ID": 157,
+        "APP_DBM_ID": 157,
+        "Slug": "44103105-HX-M40",
+        "Item": "INK CART, HP CD973AA, (HP 920XL), Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 641.68
+    },
+    {
+        "ID": 158,
+        "APP_DBM_ID": 158,
+        "Slug": "44103105-HX-Y40",
+        "Item": "INK CART, HP CD974AA, (HP 920XL), Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 641.68
+    },
+    {
+        "ID": 159,
+        "APP_DBM_ID": 159,
+        "Slug": "44103105-HX-B40",
+        "Item": "INK CART, HP CD975AA, (HP 920XL), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1269.84
+    },
+    {
+        "ID": 160,
+        "APP_DBM_ID": 160,
+        "Slug": "44103105-HP-B20",
+        "Item": "INK CART, HP CH561WA, (HP61), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 656.24
+    },
+    {
+        "ID": 161,
+        "APP_DBM_ID": 161,
+        "Slug": "44103105-HP-T20",
+        "Item": "INK CART, HP CH562WA, (HP61), Tricolor",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 821.6
+    },
+    {
+        "ID": 162,
+        "APP_DBM_ID": 162,
+        "Slug": "44103105-HP-B49",
+        "Item": "INK CART, HP CH565A (HP82) Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1944.8
+    },
+    {
+        "ID": 163,
+        "APP_DBM_ID": 163,
+        "Slug": "44103105-HP-C49",
+        "Item": "INK CART, HP CH566A (HP82) Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1539.2
+    },
+    {
+        "ID": 164,
+        "APP_DBM_ID": 164,
+        "Slug": "44103105-HP-M49",
+        "Item": "INK CART, HP CH567A (HP82) Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1539.2
+    },
+    {
+        "ID": 165,
+        "APP_DBM_ID": 165,
+        "Slug": "44103105-HP-Y49",
+        "Item": "INK CART, HP CH568A (HP82) Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1539.2
+    },
+    {
+        "ID": 166,
+        "APP_DBM_ID": 166,
+        "Slug": "44103105-HX-B43",
+        "Item": "INK CART, HP CN045AA, (HP950XL), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1570.4
+    },
+    {
+        "ID": 167,
+        "APP_DBM_ID": 167,
+        "Slug": "44103105-HX-C43",
+        "Item": "INK CART, HP CN046AA, (HP951XL), Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1165.84
+    },
+    {
+        "ID": 168,
+        "APP_DBM_ID": 168,
+        "Slug": "44103105-HX-M43",
+        "Item": "INK CART, HP CN047AA, (HP951XL), Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1165.84
+    },
+    {
+        "ID": 169,
+        "APP_DBM_ID": 169,
+        "Slug": "44103105-HX-Y43",
+        "Item": "INK CART, HP CN048AA, (HP951XL). Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1165.84
+    },
+    {
+        "ID": 170,
+        "APP_DBM_ID": 170,
+        "Slug": "44103105-HP-B36",
+        "Item": "INK CART, HP CN692AA, (HP704), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 366.08
+    },
+    {
+        "ID": 171,
+        "APP_DBM_ID": 171,
+        "Slug": "44103105-HP-T36",
+        "Item": "INK CART, HP CN693AA, (HP704), Tri-color",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 366.08
+    },
+    {
+        "ID": 172,
+        "APP_DBM_ID": 172,
+        "Slug": "44103105-HP-B33",
+        "Item": "INK CART, HP CZ107AA, (HP678), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 366.08
+    },
+    {
+        "ID": 173,
+        "APP_DBM_ID": 173,
+        "Slug": "44103105-HP-T33",
+        "Item": "INK CART, HP CZ108AA, (HP678), Tricolor",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 366.08
+    },
+    {
+        "ID": 174,
+        "APP_DBM_ID": 174,
+        "Slug": "44103105-HP-B42",
+        "Item": "INK CART, HP CZ121A (HP685A), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 366.08
+    },
+    {
+        "ID": 175,
+        "APP_DBM_ID": 175,
+        "Slug": "44103105-HP-C33",
+        "Item": "INK CART, HP CZ122A (HP685A), Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 249.6
+    },
+    {
+        "ID": 176,
+        "APP_DBM_ID": 176,
+        "Slug": "44103105-HP-M33",
+        "Item": "INK CART, HP CZ123A (HP685A), Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 249.6
+    },
+    {
+        "ID": 177,
+        "APP_DBM_ID": 177,
+        "Slug": "44103105-HP-Y33",
+        "Item": "INK CART, HP CZ124A (HP685A), Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 249.6
+    },
+    {
+        "ID": 178,
+        "APP_DBM_ID": 178,
+        "Slug": "44103105-HP-T43",
+        "Item": "INK CART, HP F6V26AA (HP680) Tri-color",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 405.6
+    },
+    {
+        "ID": 179,
+        "APP_DBM_ID": 179,
+        "Slug": "44103105-HP-B43",
+        "Item": "INK CART, HP F6V27AA (HP680) Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 405.6
+    },
+    {
+        "ID": 180,
+        "APP_DBM_ID": 180,
+        "Slug": "44103105-HP-C50",
+        "Item": "INK CART, HP L0S51AA (HP955) Cyan Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 995.75
+    },
+    {
+        "ID": 181,
+        "APP_DBM_ID": 181,
+        "Slug": "44103105-HP-M50",
+        "Item": "INK CART, HP L0S54AA (HP955) Magenta Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 995.75
+    },
+    {
+        "ID": 182,
+        "APP_DBM_ID": 182,
+        "Slug": "44103105-HP-Y50",
+        "Item": "INK CART, HP L0S57AA (HP955) Yellow Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 995.75
+    },
+    {
+        "ID": 183,
+        "APP_DBM_ID": 183,
+        "Slug": "44103105-HP-B50",
+        "Item": "INK CART, HP L0S60AA (HP955) Black Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4956.6
+    },
+    {
+        "ID": 184,
+        "APP_DBM_ID": 184,
+        "Slug": "44103105-HX-C48",
+        "Item": "INK CART, HP L0S63AA (HP955XL) Cyan Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1212.64
+    },
+    {
+        "ID": 185,
+        "APP_DBM_ID": 185,
+        "Slug": "44103105-HX-M48",
+        "Item": "INK CART, HP L0S66AA (HP955XL) Magenta Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1212.64
+    },
+    {
+        "ID": 186,
+        "APP_DBM_ID": 186,
+        "Slug": "44103105-HX-Y48",
+        "Item": "INK CART, HP L0S69AA (HP955XL) Yellow Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1212.64
+    },
+    {
+        "ID": 187,
+        "APP_DBM_ID": 187,
+        "Slug": "44103105-HX-B48",
+        "Item": "INK CART, HP L0S72AA (HP955XL) Black Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1644.24
+    },
+    {
+        "ID": 188,
+        "APP_DBM_ID": 188,
+        "Slug": "44103105-HP-C51",
+        "Item": "INK CART, HP T6L89AA (HP905) Cyan Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 453.6168
+    },
+    {
+        "ID": 189,
+        "APP_DBM_ID": 189,
+        "Slug": "44103105-HP-M51",
+        "Item": "INK CART, HP T6L93AA (HP905) Magenta Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 453.6168
+    },
+    {
+        "ID": 190,
+        "APP_DBM_ID": 190,
+        "Slug": "44103105-HP-Y51",
+        "Item": "INK CART, HP T6L97AA (HP905) Yellow Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 453.6168
+    },
+    {
+        "ID": 191,
+        "APP_DBM_ID": 191,
+        "Slug": "44103105-HP-B51",
+        "Item": "INK CART, HP T6M01AA (HP905) Black Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 741.28
+    },
+    {
+        "ID": 192,
+        "APP_DBM_ID": 192,
+        "Slug": "44103105-HX-C49",
+        "Item": "INK CART, HP T6M05AA (HP905XL) Cyan Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 193,
+        "APP_DBM_ID": 193,
+        "Slug": "44103105-HX-M49",
+        "Item": "INK CART, HP T6M09AA (HP905XL) Magenta Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 194,
+        "APP_DBM_ID": 194,
+        "Slug": "44103105-HX-Y49",
+        "Item": "INK CART, HP T6M13AA (HP905XL) Yellow Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 195,
+        "APP_DBM_ID": 195,
+        "Slug": "44103105-HX-B49",
+        "Item": "INK CART, HP T6M17AA (HP905XL) Black Original",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 196,
+        "APP_DBM_ID": 196,
+        "Slug": "44103112-EP-R05",
+        "Item": "RIBBON CART, EPSON C13S015516 (#8750), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 77.43
+    },
+    {
+        "ID": 197,
+        "APP_DBM_ID": 197,
+        "Slug": "44103112-EP-R07",
+        "Item": "RIBBON CART, EPSON C13S015531 (S015086), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 716.44
+    },
+    {
+        "ID": 198,
+        "APP_DBM_ID": 198,
+        "Slug": "44103112-EP-R13",
+        "Item": "RIBBON CART, EPSON C13S015632, Black, forLX-310",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 77.43
+    },
+    {
+        "ID": 199,
+        "APP_DBM_ID": 199,
+        "Slug": "44103103-BR-B03",
+        "Item": "TONER CART,  BROTHER TN-2025, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2685.28
+    },
+    {
+        "ID": 200,
+        "APP_DBM_ID": 200,
+        "Slug": "44103103-BR-B04",
+        "Item": "TONER CART,  BROTHER TN-2130, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1892.8
+    },
+    {
+        "ID": 201,
+        "APP_DBM_ID": 201,
+        "Slug": "44103103-BR-B05",
+        "Item": "TONER CART,  BROTHER TN-2150, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2685.28
+    },
+    {
+        "ID": 202,
+        "APP_DBM_ID": 202,
+        "Slug": "44103103-BR-B09",
+        "Item": "TONER CART,  BROTHER TN-3320, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3567.2
+    },
+    {
+        "ID": 203,
+        "APP_DBM_ID": 203,
+        "Slug": "44103103-BR-B11",
+        "Item": "TONER CART,  BROTHER TN-3350, Black, for HL5450DN (CU Printer)",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5002.4
+    },
+    {
+        "ID": 204,
+        "APP_DBM_ID": 204,
+        "Slug": "44103103-HP-B12",
+        "Item": "TONER CART, HP CB435A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3380
+    },
+    {
+        "ID": 205,
+        "APP_DBM_ID": 205,
+        "Slug": "44103103-HP-B14",
+        "Item": "TONER CART, HP CB540A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3337.36
+    },
+    {
+        "ID": 206,
+        "APP_DBM_ID": 206,
+        "Slug": "44103103-HP-B18",
+        "Item": "TONER CART, HP CE255A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7332
+    },
+    {
+        "ID": 207,
+        "APP_DBM_ID": 207,
+        "Slug": "44103103-HP-B21",
+        "Item": "TONER CART, HP CE278A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3952
+    },
+    {
+        "ID": 208,
+        "APP_DBM_ID": 208,
+        "Slug": "44103103-HP-B22",
+        "Item": "TONER CART, HP CE285A (HP85A), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3432
+    },
+    {
+        "ID": 209,
+        "APP_DBM_ID": 209,
+        "Slug": "44103103-HP-B23",
+        "Item": "TONER CART, HP CE310A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2360.8
+    },
+    {
+        "ID": 210,
+        "APP_DBM_ID": 210,
+        "Slug": "44103103-HP-C23",
+        "Item": "TONER CART, HP CE311A, Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2542.8
+    },
+    {
+        "ID": 211,
+        "APP_DBM_ID": 211,
+        "Slug": "44103103-HP-Y23",
+        "Item": "TONER CART, HP CE312A, Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2542.8
+    },
+    {
+        "ID": 212,
+        "APP_DBM_ID": 212,
+        "Slug": "44103103-HP-M23",
+        "Item": "TONER CART, HP CE313A, Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2542.8
+    },
+    {
+        "ID": 213,
+        "APP_DBM_ID": 213,
+        "Slug": "44103103-HP-B24",
+        "Item": "TONER CART, HP CE320A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2916.16
+    },
+    {
+        "ID": 214,
+        "APP_DBM_ID": 214,
+        "Slug": "44103103-HP-C24",
+        "Item": "TONER CART, HP CE321A, Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3072.16
+    },
+    {
+        "ID": 215,
+        "APP_DBM_ID": 215,
+        "Slug": "44103103-HP-Y24",
+        "Item": "TONER CART, HP CE322A, Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3072.16
+    },
+    {
+        "ID": 216,
+        "APP_DBM_ID": 216,
+        "Slug": "44103103-HP-M24",
+        "Item": "TONER CART, HP CE323A, Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3072.16
+    },
+    {
+        "ID": 217,
+        "APP_DBM_ID": 217,
+        "Slug": "44103103-HP-B25",
+        "Item": "TONER CART, HP CE390A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7856.16
+    },
+    {
+        "ID": 218,
+        "APP_DBM_ID": 218,
+        "Slug": "44103103-HP-B26",
+        "Item": "TONER CART, HP CE400A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6900.4
+    },
+    {
+        "ID": 219,
+        "APP_DBM_ID": 219,
+        "Slug": "44103103-HP-C26",
+        "Item": "TONER CART, HP CE401A, Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 10193.04
+    },
+    {
+        "ID": 220,
+        "APP_DBM_ID": 220,
+        "Slug": "44103103-HP-Y26",
+        "Item": "TONER CART, HP CE402A, Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 10193.04
+    },
+    {
+        "ID": 221,
+        "APP_DBM_ID": 221,
+        "Slug": "44103103-HP-M26",
+        "Item": "TONER CART, HP CE403A, Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 10193.04
+    },
+    {
+        "ID": 222,
+        "APP_DBM_ID": 222,
+        "Slug": "44103103-HP-B27",
+        "Item": "TONER CART, HP CE410A, (HP305), Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4201.6
+    },
+    {
+        "ID": 223,
+        "APP_DBM_ID": 223,
+        "Slug": "44103103-HP-C27",
+        "Item": "TONER CART, HP CE411A, (HP305), Cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6011.2
+    },
+    {
+        "ID": 224,
+        "APP_DBM_ID": 224,
+        "Slug": "44103103-HP-Y27",
+        "Item": "TONER CART, HP CE412A, (HP305), Yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6011.2
+    },
+    {
+        "ID": 225,
+        "APP_DBM_ID": 225,
+        "Slug": "44103103-HP-M27",
+        "Item": "TONER CART, HP CE413A, (HP305), Magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6011.2
+    },
+    {
+        "ID": 226,
+        "APP_DBM_ID": 226,
+        "Slug": "44103103-HP-B28",
+        "Item": "TONER CART, HP CE505A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4466.8
+    },
+    {
+        "ID": 227,
+        "APP_DBM_ID": 227,
+        "Slug": "44103103-HX-B28",
+        "Item": "TONER CART, HP CE505X, Black, high cap",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7213.44
+    },
+    {
+        "ID": 228,
+        "APP_DBM_ID": 228,
+        "Slug": "44103103-HP-B52",
+        "Item": "TONER CART, HP CF217A (HP17A) Black LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3044.28
+    },
+    {
+        "ID": 229,
+        "APP_DBM_ID": 229,
+        "Slug": "44103103-HP-B53",
+        "Item": "TONER CART, HP CF226A (HP26A) Black LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5787.6
+    },
+    {
+        "ID": 230,
+        "APP_DBM_ID": 230,
+        "Slug": "44103103-HX-B50",
+        "Item": "TONER CART, HP CF226XC (HP26XC) Black LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 231,
+        "APP_DBM_ID": 231,
+        "Slug": "44103103-HP-B55",
+        "Item": "TONER CART, HP CF280A, LaserJet Pro M401/M425 2.7K Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5200
+    },
+    {
+        "ID": 232,
+        "APP_DBM_ID": 232,
+        "Slug": "44103103-HP-B51",
+        "Item": "TONER CART, HP CF280XC",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7112.56
+    },
+    {
+        "ID": 233,
+        "APP_DBM_ID": 233,
+        "Slug": "44103103-HP-B56",
+        "Item": "TONER CART, HP CF281A (HP81A) Black LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8606
+    },
+    {
+        "ID": 234,
+        "APP_DBM_ID": 234,
+        "Slug": "44103103-HP-B57",
+        "Item": "TONER CART, HP CF283A (HP83A) LaserJet  Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3241.7
+    },
+    {
+        "ID": 235,
+        "APP_DBM_ID": 235,
+        "Slug": "44103103-HX-B51",
+        "Item": "TONER CART, HP CF283XC (HP83X) Blk Contract LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4056
+    },
+    {
+        "ID": 236,
+        "APP_DBM_ID": 236,
+        "Slug": "44103103-HP-B58",
+        "Item": "TONER CART, HP CF287A (HP87) black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 10051
+    },
+    {
+        "ID": 237,
+        "APP_DBM_ID": 237,
+        "Slug": "44103103-HP-B59",
+        "Item": "TONER CART, HP CF310AC (HP826) black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 238,
+        "APP_DBM_ID": 238,
+        "Slug": "44103103-HP-C59",
+        "Item": "TONER CART, HP CF311AC (HP826) cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 239,
+        "APP_DBM_ID": 239,
+        "Slug": "44103103-HP-Y59",
+        "Item": "TONER CART, HP CF312AC (HP826) yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 240,
+        "APP_DBM_ID": 240,
+        "Slug": "44103103-HP-M59",
+        "Item": "TONER CART, HP CF313AC (HP826) magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 241,
+        "APP_DBM_ID": 241,
+        "Slug": "44103103-HX-B52",
+        "Item": "TONER CART, HP CF325XC (HP25X) Black LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 13156
+    },
+    {
+        "ID": 242,
+        "APP_DBM_ID": 242,
+        "Slug": "44103103-HP-B60",
+        "Item": "TONER CART, HP CF350A Black LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2901.6
+    },
+    {
+        "ID": 243,
+        "APP_DBM_ID": 243,
+        "Slug": "44103103-HP-C60",
+        "Item": "TONER CART, HP CF351A Cyan LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2953.6
+    },
+    {
+        "ID": 244,
+        "APP_DBM_ID": 244,
+        "Slug": "44103103-HP-Y60",
+        "Item": "TONER CART, HP CF352A Yellow LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2953.6
+    },
+    {
+        "ID": 245,
+        "APP_DBM_ID": 245,
+        "Slug": "44103103-HP-M60",
+        "Item": "TONER CART, HP CF353A Magenta LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2953.6
+    },
+    {
+        "ID": 246,
+        "APP_DBM_ID": 246,
+        "Slug": "44103103-HP-B61",
+        "Item": "TONER CART, HP CF360A (HP508A) Black LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7056.4
+    },
+    {
+        "ID": 247,
+        "APP_DBM_ID": 247,
+        "Slug": "44103103-HX-B53",
+        "Item": "TONER CART, HP CF360XC (HP508X) Black Contract LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 248,
+        "APP_DBM_ID": 248,
+        "Slug": "44103103-HP-C61",
+        "Item": "TONER CART, HP CF361A (HP508A) Cyan LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8846.24
+    },
+    {
+        "ID": 249,
+        "APP_DBM_ID": 249,
+        "Slug": "44103103-HX-C53",
+        "Item": "TONER CART, HP CF361XC (HP508X) Cyan Contract LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 250,
+        "APP_DBM_ID": 250,
+        "Slug": "44103103-HP-Y61",
+        "Item": "TONER CART, HP CF362A (HP508A) Yellow LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8846.24
+    },
+    {
+        "ID": 251,
+        "APP_DBM_ID": 251,
+        "Slug": "44103103-HX-Y53",
+        "Item": "TONER CART, HP CF362XC (HP508X) Yellow Contract LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 252,
+        "APP_DBM_ID": 252,
+        "Slug": "44103103-HP-M61",
+        "Item": "TONER CART, HP CF363A (HP508A) Magenta LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8846.24
+    },
+    {
+        "ID": 253,
+        "APP_DBM_ID": 253,
+        "Slug": "44103103-HX-M53",
+        "Item": "TONER CART, HP CF363XC (HP508X) Magenta Contract LJ",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 254,
+        "APP_DBM_ID": 254,
+        "Slug": "44103103-HP-B62",
+        "Item": "TONER CART, HP CF400A (HP201A) Black LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3429.78
+    },
+    {
+        "ID": 255,
+        "APP_DBM_ID": 255,
+        "Slug": "44103103-HP-C62",
+        "Item": "TONER CART, HP CF401A (HP201A) Cyan LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4043.83
+    },
+    {
+        "ID": 256,
+        "APP_DBM_ID": 256,
+        "Slug": "44103103-HP-Y62",
+        "Item": "TONER CART, HP CF402A (HP201A) Yellow LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4043.83
+    },
+    {
+        "ID": 257,
+        "APP_DBM_ID": 257,
+        "Slug": "44103103-HP-M62",
+        "Item": "TONER CART, HP CF403A (HP201A) Magenta LaserJet",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4043.83
+    },
+    {
+        "ID": 258,
+        "APP_DBM_ID": 258,
+        "Slug": "44103103-HP-B63",
+        "Item": "TONER CART, HP CF410A (HP410A) black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4440.8
+    },
+    {
+        "ID": 259,
+        "APP_DBM_ID": 259,
+        "Slug": "44103103-HX-B54",
+        "Item": "TONER CART, HP CF410XC (HP410XC) black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7441.2
+    },
+    {
+        "ID": 260,
+        "APP_DBM_ID": 260,
+        "Slug": "44103103-HP-C63",
+        "Item": "TONER CART, HP CF411A (HP410A) cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5616
+    },
+    {
+        "ID": 261,
+        "APP_DBM_ID": 261,
+        "Slug": "44103103-HX-C54",
+        "Item": "TONER CART, HP CF411XC (HP410XC) cyan",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7472.4
+    },
+    {
+        "ID": 262,
+        "APP_DBM_ID": 262,
+        "Slug": "44103103-HP-Y63",
+        "Item": "TONER CART, HP CF412A (HP410A) yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5616
+    },
+    {
+        "ID": 263,
+        "APP_DBM_ID": 263,
+        "Slug": "44103103-HX-Y54",
+        "Item": "TONER CART, HP CF412XC (HP410XC) yellow",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7472.4
+    },
+    {
+        "ID": 264,
+        "APP_DBM_ID": 264,
+        "Slug": "44103103-HP-M63",
+        "Item": "TONER CART, HP CF413A (HP410A) magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5616
+    },
+    {
+        "ID": 265,
+        "APP_DBM_ID": 265,
+        "Slug": "44103103-HX-M54",
+        "Item": "TONER CART, HP CF413XC (HP410XC) magenta",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7472.4
+    },
+    {
+        "ID": 266,
+        "APP_DBM_ID": 266,
+        "Slug": "44103103-HP-B34",
+        "Item": "TONER CART, HP Q2612A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3900
+    },
+    {
+        "ID": 267,
+        "APP_DBM_ID": 267,
+        "Slug": "44103103-HP-B39",
+        "Item": "TONER CART, HP Q5942A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7482.8
+    },
+    {
+        "ID": 268,
+        "APP_DBM_ID": 268,
+        "Slug": "44103103-HP-B48",
+        "Item": "TONER CART, HP Q7553A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3972.8
+    },
+    {
+        "ID": 269,
+        "APP_DBM_ID": 269,
+        "Slug": "44103103-LX-B03",
+        "Item": "TONER CART, LEXMARK E360H11P, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 8725.6
+    },
+    {
+        "ID": 270,
+        "APP_DBM_ID": 270,
+        "Slug": "44103103-LX-B05",
+        "Item": "TONER CART, LEXMARK T650A11P, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 9490
+    },
+    {
+        "ID": 271,
+        "APP_DBM_ID": 271,
+        "Slug": "44103103-SA-B06",
+        "Item": "TONER CART, SAMSUNG MLT-D101S, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3406
+    },
+    {
+        "ID": 272,
+        "APP_DBM_ID": 272,
+        "Slug": "44103103-SA-B07",
+        "Item": "TONER CART, SAMSUNG MLT-D103S, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2350.4
+    },
+    {
+        "ID": 273,
+        "APP_DBM_ID": 273,
+        "Slug": "44103103-SA-B08",
+        "Item": "TONER CART, SAMSUNG MLT-D104S, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2454.4
+    },
+    {
+        "ID": 274,
+        "APP_DBM_ID": 274,
+        "Slug": "44103103-SA-B09",
+        "Item": "TONER CART, SAMSUNG MLT-D105L, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3380
+    },
+    {
+        "ID": 275,
+        "APP_DBM_ID": 275,
+        "Slug": "44103103-SA-B14",
+        "Item": "TONER CART, SAMSUNG MLT-D108S, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 2875.58
+    },
+    {
+        "ID": 276,
+        "APP_DBM_ID": 276,
+        "Slug": "44103103-SA-B21",
+        "Item": "TONER CART, SAMSUNG MLT-D203E, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7259.2
+    },
+    {
+        "ID": 277,
+        "APP_DBM_ID": 277,
+        "Slug": "44103103-SA-B18",
+        "Item": "TONER CART, SAMSUNG MLT-D203L, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3458
+    },
+    {
+        "ID": 278,
+        "APP_DBM_ID": 278,
+        "Slug": "44103103-SA-B20",
+        "Item": "TONER CART, SAMSUNG MLT-D203U, black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6442.8
+    },
+    {
+        "ID": 279,
+        "APP_DBM_ID": 279,
+        "Slug": "44103103-SA-B12",
+        "Item": "TONER CART, SAMSUNG MLT-D205E, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 7321.14
+    },
+    {
+        "ID": 280,
+        "APP_DBM_ID": 280,
+        "Slug": "44103103-SA-B05",
+        "Item": "TONER CART, SAMSUNG MLT-D205L, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 3962.24
+    },
+    {
+        "ID": 281,
+        "APP_DBM_ID": 281,
+        "Slug": "44103103-SA-B10",
+        "Item": "TONER CART, SAMSUNG SCX-D6555A, Black",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4066.4
+    },
+    {
+        "ID": 282,
+        "APP_DBM_ID": 282,
+        "Slug": "44103103-BR-B15",
+        "Item": "TONER CARTRIDGE, BROTHER TN-3478, Blackf, for printer HL-6400DW (12,000 pages)",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6370
+    },
+    {
+        "ID": 283,
+        "APP_DBM_ID": 283,
+        "Slug": "44103103-CA-B00",
+        "Item": "TONER CARTRIDGE, CANON 324 II, for  printer LBP6780x",
+        "unit_of_measure": "cart",
+        "Type": "Printer or Facsimile or Photocopier Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 13399.36
+    },
+    {
+        "ID": 284,
+        "APP_DBM_ID": 284,
+        "Slug": "45121517-DO-C01",
+        "Item": "DOCUMENT CAMERA, 3.2M pixels",
+        "unit_of_measure": "unit",
+        "Type": "Audio and Visual Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 28860
+    },
+    {
+        "ID": 285,
+        "APP_DBM_ID": 285,
+        "Slug": "45111609-MM-P01",
+        "Item": "MULTIMEDIA PROJECTOR, 4000 min ANSI Lumens",
+        "unit_of_measure": "unit",
+        "Type": "Audio and Visual Equipment and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 17472
+    },
+    {
+        "ID": 286,
+        "APP_DBM_ID": 286,
+        "Slug": "55121905-PH-F01",
+        "Item": "PHILIPPINE NATIONAL FLAG, 100% polyester",
+        "unit_of_measure": "piece",
+        "Type": "Printed Publications",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 284.84
+    },
+    {
+        "ID": 287,
+        "APP_DBM_ID": 287,
+        "Slug": "55101524-RA-H01",
+        "Item": "HANDBOOK (RA 9184), 7th Edition",
+        "unit_of_measure": "book",
+        "Type": "Printed Publications",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 29.12
+    },
+    {
+        "ID": 288,
+        "APP_DBM_ID": 288,
+        "Slug": "46191601-FE-M01",
+        "Item": "FIRE EXTINGUISHER, DRY CHEMICAL, 4.5kgs",
+        "unit_of_measure": "unit",
+        "Type": "Fire Fighting Equipment",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1144
+    },
+    {
+        "ID": 289,
+        "APP_DBM_ID": 289,
+        "Slug": "46191601-FE-H01",
+        "Item": "FIRE EXTINGUISHER, PURE HCFC 123, 4.5kgs",
+        "unit_of_measure": "unit",
+        "Type": "Fire Fighting Equipment",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 5613.25
+    },
+    {
+        "ID": 290,
+        "APP_DBM_ID": 290,
+        "Slug": "52161535-DV-R01",
+        "Item": "DIGITAL VOICE RECORDER, memory: 4GB (expandable)",
+        "unit_of_measure": "unit",
+        "Type": "Consumer Electronics",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 6415.64
+    },
+    {
+        "ID": 291,
+        "APP_DBM_ID": 291,
+        "Slug": "56101504-CM-B01",
+        "Item": "CHAIR, monobloc, beige, with backrest, w/o armrest",
+        "unit_of_measure": "piece",
+        "Type": "Furniture and Furnishings",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 303.68
+    },
+    {
+        "ID": 292,
+        "APP_DBM_ID": 292,
+        "Slug": "56101504-CM-W01",
+        "Item": "CHAIR,monobloc, white, with backrest, w/o armrest",
+        "unit_of_measure": "piece",
+        "Type": "Furniture and Furnishings",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 301.6
+    },
+    {
+        "ID": 293,
+        "APP_DBM_ID": 293,
+        "Slug": "56101519-TM-S01",
+        "Item": "TABLE, MONOBLOC, WHITE, 889 x 889mm (35\" x 35\")min",
+        "unit_of_measure": "unit",
+        "Type": "Furniture and Furnishings",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1336.4
+    },
+    {
+        "ID": 294,
+        "APP_DBM_ID": 294,
+        "Slug": "56101519-TM-S02",
+        "Item": "TABLE, MONOBLOC, BEIGE, 889 x 889mm (35\" x 35\")min",
+        "unit_of_measure": "unit",
+        "Type": "Furniture and Furnishings",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 1315.6
+    },
+    {
+        "ID": 295,
+        "APP_DBM_ID": 295,
+        "Slug": "60121413-CB-P01",
+        "Item": "CLEARBOOK, 20 transparent pockets, for A4 size",
+        "unit_of_measure": "piece",
+        "Type": "Arts and Crafts Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 39.78
+    },
+    {
+        "ID": 296,
+        "APP_DBM_ID": 296,
+        "Slug": "60121413-CB-P02",
+        "Item": "CLEARBOOK, 20 transparent pockets, for LEGAL size",
+        "unit_of_measure": "piece",
+        "Type": "Arts and Crafts Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 42.38
+    },
+    {
+        "ID": 297,
+        "APP_DBM_ID": 297,
+        "Slug": "60121534-ER-P01",
+        "Item": "ERASER, PLASTIC/RUBBER, for pencil draft/writing",
+        "unit_of_measure": "piece",
+        "Type": "Arts and Crafts Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 4.42
+    },
+    {
+        "ID": 298,
+        "APP_DBM_ID": 298,
+        "Slug": "60121524-SP-G01",
+        "Item": "SIGN PEN, BLACK, liquid/gel ink, 0.5mm needle tip",
+        "unit_of_measure": "piece",
+        "Type": "Arts and Crafts Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 34.61
+    },
+    {
+        "ID": 299,
+        "APP_DBM_ID": 299,
+        "Slug": "60121524-SP-G02",
+        "Item": "SIGN PEN, BLUE, liquid/gel ink, 0.5mm needle tip",
+        "unit_of_measure": "piece",
+        "Type": "Arts and Crafts Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 34.61
+    },
+    {
+        "ID": 300,
+        "APP_DBM_ID": 300,
+        "Slug": "60121524-SP-G03",
+        "Item": "SIGN PEN, RED, liquid/gel ink, 0.5mm needle tip",
+        "unit_of_measure": "piece",
+        "Type": "Arts and Crafts Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 34.61
+    },
+    {
+        "ID": 301,
+        "APP_DBM_ID": 301,
+        "Slug": "60121124-WR-P01",
+        "Item": "WRAPPING PAPER, kraft, 65gsm (-5%)",
+        "unit_of_measure": "pack",
+        "Type": "Arts and Crafts Equipment and Accessories and Supplies",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 154.84
+    },
+    {
+        "ID": 302,
+        "APP_DBM_ID": 1,
+        "Slug": "43231513-SFT-001",
+        "Item": "Business function specific software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 303,
+        "APP_DBM_ID": 2,
+        "Slug": "43231602-SFT-002",
+        "Item": "Finance accounting and enterprise resource planning ERP software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 304,
+        "APP_DBM_ID": 3,
+        "Slug": "43232004-SFT-003",
+        "Item": "Computer game or entertainment software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 305,
+        "APP_DBM_ID": 4,
+        "Slug": "43232107-SFT-004",
+        "Item": "Content authoring and editing software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 306,
+        "APP_DBM_ID": 5,
+        "Slug": "43232202-SFT-005",
+        "Item": "Content management software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 307,
+        "APP_DBM_ID": 6,
+        "Slug": "43232304-SFT-006",
+        "Item": "Data management and query software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 308,
+        "APP_DBM_ID": 7,
+        "Slug": "43232402-SFT-007",
+        "Item": "Development software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 309,
+        "APP_DBM_ID": 8,
+        "Slug": "43232505-SFT-008",
+        "Item": "Educational or reference software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 310,
+        "APP_DBM_ID": 9,
+        "Slug": "43232603-SFT-009",
+        "Item": "Industry specific software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 311,
+        "APP_DBM_ID": 10,
+        "Slug": "43232701-SFT-010",
+        "Item": "Network applications software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 312,
+        "APP_DBM_ID": 11,
+        "Slug": "43232802-SFT-011",
+        "Item": "Network management software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 313,
+        "APP_DBM_ID": 12,
+        "Slug": "43232905-SFT-012",
+        "Item": "Networking software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 314,
+        "APP_DBM_ID": 13,
+        "Slug": "43233004-SFT-013",
+        "Item": "Operating environment software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 315,
+        "APP_DBM_ID": 14,
+        "Slug": "43233205-SFT-014",
+        "Item": "Security and protection software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 316,
+        "APP_DBM_ID": 15,
+        "Slug": "43233405-SFT-015",
+        "Item": "Utility and device driver software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 317,
+        "APP_DBM_ID": 16,
+        "Slug": "43233501-SFT-016",
+        "Item": "Information exchange software",
+        "unit_of_measure": "license",
+        "Type": "Software",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 318,
+        "APP_DBM_ID": 1,
+        "Slug": "43212111-GFA-001",
+        "Item": "* Airline Ticket",
+        "unit_of_measure": "ticket",
+        "Type": "PASSENGER AIR TRANSPORTATION",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 319,
+        "APP_DBM_ID": 1,
+        "Slug": "25101503-VA101A",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 2200 cc for gasoline\n\nFor a Department Secretary and\nother officials of equivalent rank in\nNational Government Agencies\n(NGAs), Government-Owned or\n-Controlled Corporations (GOCCs)\nand Local Government Units\n(LGUs)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 320,
+        "APP_DBM_ID": 0,
+        "Slug": "25101503-VA101B",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 2200 cc for diesel\n\nFor a Department Secretary and\nother officials of equivalent rank in\nNational Government Agencies\n(NGAs), Government-Owned or\n-Controlled Corporations (GOCCs)\nand Local Government Units\n(LGUs)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 321,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA201A",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\n\nEngine displacement not exceeding 2000 cc for gasoline\nFor a Department Secretary and\nother officials of equivalent rank in\nNational Government Agencies\n(NGAs), Government-Owned or\n-Controlled Corporations (GOCCs)\nand Local Government Units\n(LGUs)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 322,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA201B",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\n\nEngine displacement not exceeding 2800 cc for diesel\nFor a Department Secretary and\nother officials of equivalent rank in\nNational Government Agencies\n(NGAs), Government-Owned or\n-Controlled Corporations (GOCCs)\nand Local Government Units\n(LGUs)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 323,
+        "APP_DBM_ID": 2,
+        "Slug": "25101503-VA102A",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 3500 cc for gasoline\n\nFor an Ambassador or Chief-ofMission of Philippine embassies/\nconsulates abroad for exclusive use\nin the country where the embassy/\nconsulate is located",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 324,
+        "APP_DBM_ID": 0,
+        "Slug": "25101503-VA102B",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 3500 cc for diesel\n\nFor an Ambassador or Chief-ofMission of Philippine embassies/\nconsulates abroad for exclusive use\nin the country where the embassy/\nconsulate is located",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 325,
+        "APP_DBM_ID": 3,
+        "Slug": "25101503-VA103A",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 1600 cc for gasoline\n\nFor a Department Undersecretary\nand other officials of equivalent\nrank in NGAs, GOCCs and LGUs\nFor a Chief of Staff of the Armed\nForces of the Philippines (AFP)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 326,
+        "APP_DBM_ID": 0,
+        "Slug": "25101503-VA103B",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 1600 cc for diesel\n\nFor a Department Undersecretary\nand other officials of equivalent\nrank in NGAs, GOCCs and LGUs\nFor a Chief of Staff of the Armed\nForces of the Philippines (AFP)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 327,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA202A",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\nEngine displacement not exceeding 2000 cc for gasoline\n\nFor a Department Undersecretary\nand other officials of equivalent\nrank in NGAs, GOCCs and LGUs\nFor a Chief of Staff of the Armed\nForces of the Philippines (AFP)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 328,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA202B",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\nEngine displacement not exceeding 2500 cc for diesel\n\nFor a Department Undersecretary\nand other officials of equivalent\nrank in NGAs, GOCCs and LGUs\nFor a Chief of Staff of the Armed\nForces of the Philippines (AFP)",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 329,
+        "APP_DBM_ID": 4,
+        "Slug": "25101503-VA104A",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 1500 cc for gasoline\n\nFor a Department Assistant\nSecretary and other officials of\nequivalent rank in NGAs, GOCCs\nand LGUs\nFor a Vice Chief of Staff and the\nCommanding Generals of the Major\nServices of the AFP",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 330,
+        "APP_DBM_ID": 0,
+        "Slug": "25101503-VA104B",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 1500 cc for diesel\n\nFor a Department Assistant\nSecretary and other officials of\nequivalent rank in NGAs, GOCCs\nand LGUs\nFor a Vice Chief of Staff and the\nCommanding Generals of the Major\nServices of the AFP",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 331,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA203A",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\nEngine displacement not exceeding 2000 cc for gasoline\n\nFor a Department Assistant\nSecretary and other officials of\nequivalent rank in NGAs, GOCCs\nand LGUs\nFor a Vice Chief of Staff and the\nCommanding Generals of the Major\nServices of the AFP",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 332,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA203B",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\nEngine displacement not exceeding 2500 cc for diesel\n\nFor a Department Assistant\nSecretary and other officials of\nequivalent rank in NGAs, GOCCs\nand LGUs\nFor a Vice Chief of Staff and the\nCommanding Generals of the Major\nServices of the AFP",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 333,
+        "APP_DBM_ID": 5,
+        "Slug": "25101503-VA105A",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 1500 cc for gasoline\n\nFor a Bureau Director, Regional\nDirector or department-wide/\nbureau-wide regional offices and\nother officials of equivalent rank in\nNGAs, GOCCs and LGUs",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 334,
+        "APP_DBM_ID": 0,
+        "Slug": "25101503-VA105B",
+        "Item": "Car (Sedan or Hatchback)\nEngine displacement not exceeding 1500 cc for diesel\n\nFor a Bureau Director, Regional\nDirector or department-wide/\nbureau-wide regional offices and\nother officials of equivalent rank in\nNGAs, GOCCs and LGUs",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 335,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA204A",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\nEngine displacement not exceeding 1500 cc for gasoline\n\nFor a Bureau Director, Regional\nDirector or department-wide/\nbureau-wide regional offices and\nother officials of equivalent rank in\nNGAs, GOCCs and LGUs",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 336,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VA204B",
+        "Item": "Asian Utility Vehicle (AUV or Crossover Utility Vehicle (CUV)\nEngine displacement not exceeding 1500 cc for diesel\n\nFor a Bureau Director, Regional\nDirector or department-wide/\nbureau-wide regional offices and\nother officials of equivalent rank in\nNGAs, GOCCs and LGUs",
+        "unit_of_measure": "unit",
+        "Type": "A.  For the Exercise of the Executive Functions",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 337,
+        "APP_DBM_ID": 1,
+        "Slug": "25101507-VB101A",
+        "Item": "Pick-up\nEngine displacement not exceeding 2200 cc for gasoline\n\nFor heavy field use in rural and\nremote areas with generally rugged\nroad condition, mountainous and\nrugged terrain",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 338,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VB101B",
+        "Item": "Pick-up\nEngine displacement not exceeding 3000 cc for diesel\n\nFor heavy field use in rural and\nremote areas with generally rugged\nroad condition, mountainous and\nrugged terrain",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 339,
+        "APP_DBM_ID": 0,
+        "Slug": "25101905-VB201A",
+        "Item": "All-terrain vehicle, commonly referred to Sports Utility Vehicle\nEngine displacement not exceeding 2000 cc for gasoline\n\nFor heavy field use in rural and\nremote areas with generally rugged\nroad condition, mountainous and\nrugged terrain",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 340,
+        "APP_DBM_ID": 0,
+        "Slug": "25101905-VB201B",
+        "Item": "All-terrain vehicle, commonly referred to Sports Utility Vehicle\nEngine displacement not exceeding 2400 cc for diesel\n\nFor heavy field use in rural and\nremote areas with generally rugged\nroad condition, mountainous and\nrugged terrain",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 341,
+        "APP_DBM_ID": 2,
+        "Slug": "25101505-VB301A",
+        "Item": "Passenger Van\nEngine displacement not exceeding 2200 cc for gasoline\n\nFor general urban use where road\nconditions are generally good",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 342,
+        "APP_DBM_ID": 0,
+        "Slug": "25101505-VB301B",
+        "Item": "Passenger Van\nEngine displacement not exceeding 3000 cc for diesel\n\nFor general urban use where road\nconditions are generally good",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 343,
+        "APP_DBM_ID": 0,
+        "Slug": "25181601-VB401A",
+        "Item": "Multi-Purpose Vehicle (MPV)\nEngine displacement not exceeding 1500 cc for gasoline \n\nFor general urban use where road\nconditions are generally good",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 344,
+        "APP_DBM_ID": 0,
+        "Slug": "25181601-VB401B",
+        "Item": "Multi-Purpose Vehicle (MPV)\nEngine displacement not exceeding 2500 cc for diesel\n\nFor general urban use where road\nconditions are generally good",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 345,
+        "APP_DBM_ID": 3,
+        "Slug": "25101801-VB5-01",
+        "Item": "Motorcyle\nEngine displacement not exceeding 200 cc\n\nFor use of field personnel/ workers\nwho by the nature of their functions\nhave to travel to remote areas not\nnormally accessible by ordinary\nMotorcycle",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 346,
+        "APP_DBM_ID": 4,
+        "Slug": "25101505-VB302A",
+        "Item": "Passenger Van\nEngine displacement not exceeding 2200 cc for gasoline \n\nFor transport of personnel/visitors\nfor activities related to education,\ntourism, trade and investment\npromotions, banking and finance,\nforeign affairs, and other official\nfunctions",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 347,
+        "APP_DBM_ID": 0,
+        "Slug": "25101505-VB302B",
+        "Item": "Passenger Van\nEngine displacement not exceeding 3000 cc for diesel\n\nFor transport of personnel/visitors\nfor activities related to education,\ntourism, trade and investment\npromotions, banking and finance,\nforeign affairs, and other official\nfunctions",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 348,
+        "APP_DBM_ID": 5,
+        "Slug": "25101502-VB6-01",
+        "Item": "Bus\nEngine displacement not exceeding 8500 cc for diesel\n\nFor mass transportation of\npersonnel/visitors for activities\nrelated to education, tourism, trade and investment promotions, banking and finance, foreign affairs, and\nother official functions",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 349,
+        "APP_DBM_ID": 0,
+        "Slug": "25101502-VB7-01",
+        "Item": "Mini-Bus\nEngine displacement not exceeding 4500 cc for diesel\n\nFor mass transportation of\npersonnel/visitors for activities\nrelated to education, tourism, trade and investment promotions, banking and finance, foreign affairs, and\nother official functions",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 350,
+        "APP_DBM_ID": 1,
+        "Slug": "25181601-VC101A",
+        "Item": "MPV (For conversion into an ambulance and fitted with the necessary medical equipment and apparatus)\nEngine displacement not exceeding 1500 cc for gasoline\n\nFor transport of sick and/or injured\npersons in hospitals, and for\ngovernment agencies where an\nambulance may be needed on\nstand�by at all times in case of\nemergency",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 351,
+        "APP_DBM_ID": 0,
+        "Slug": "25181601-VC101B",
+        "Item": "MPV (For conversion into an ambulance and fitted with the necessary medical equipment and apparatus)\nEngine displacement not exceeding 2500 cc for diesel\n\nFor transport of sick and/or injured\npersons in hospitals, and for\ngovernment agencies where an\nambulance may be needed on\nstand�by at all times in case of\nemergency",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 352,
+        "APP_DBM_ID": 0,
+        "Slug": "25101703-VC201A",
+        "Item": "Passenger Van (For conversion into an ambulance and fitted with the necessary medical equipment and apparatus)\nEngine displacement not exceeding 2200 cc\nfor gasoline\n\nFor transport of sick and/or injured\npersons in hospitals, and for\ngovernment agencies where an\nambulance may be needed on\nstand�by at all times in case of\nemergency",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 353,
+        "APP_DBM_ID": 0,
+        "Slug": "25101703-VC201B",
+        "Item": "Passenger Van (For conversion into an ambulance and fitted with the necessary medical equipment and apparatus)\nEngine displacement not exceeding 3000 cc for diesel \n\nFor transport of sick and/or injured\npersons in hospitals, and for\ngovernment agencies where an\nambulance may be needed on\nstand�by at all times in case of\nemergency",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 354,
+        "APP_DBM_ID": 0,
+        "Slug": "25101703-VC3-01",
+        "Item": "Original ambulance, designed,  built and equipped as such by\nthe manufacturer \n(Specifications may vary according to manufacturer and the sophistication of the desired units)\n\nFor transport of sick and/or injured\npersons in hospitals, and for\ngovernment agencies where an\nambulance may be needed on\nstand�by at all times in case of\nemergency",
+        "unit_of_measure": "unit",
+        "Type": "B.  For the Transport of Personnel, Equipment, Supplies, Product and Materials",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 355,
+        "APP_DBM_ID": 1,
+        "Slug": "25101702-VD101A",
+        "Item": "Patrol Car \nFour�door car (Sedan or\nHatchback) \nEngine displacement not exceeding 1600 cc for gasoline\n\n\nFor patrol operations within a city \nor municipal proper",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 356,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VD101B",
+        "Item": "Patrol Car \nFour�door car (Sedan or\nHatchback) \nEngine displacement not exceeding 1600 cc for diesel\n\n\nFor patrol operations within a city \nor municipal proper",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 357,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VD201A",
+        "Item": "Patrol Vehicle\nAUV or CUV\nEngine displacement not exceeding 2000 cc for gasoline\n\nFor patrol operations within a city \nor municipal proper",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 358,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VD201B",
+        "Item": "Patrol Vehicle\nAUV or CUV\nEngine displacement not exceeding 2500 cc for diesel\n\nFor patrol operations within a city \nor municipal proper",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 359,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VD301A",
+        "Item": "Patrol Jeep\nAssembled owner-type\njeepney \nEngine displacement not exceeding 1800 cc for gasoline \n\n\nFor patrol operations within a city \nor municipal proper",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 360,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VD301B",
+        "Item": "Patrol Jeep\nAssembled owner-type\njeepney \nEngine displacement not exceeding 2500 cc for diesel\n\n\nFor patrol operations within a city \nor municipal proper",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 361,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VD4-01",
+        "Item": "Patrol Motorcycle \nSpecifications may vary according to the\nMotorcycle \n\nFor patrol operations within a city \nor municipal proper",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 362,
+        "APP_DBM_ID": 2,
+        "Slug": "25101702-VE101A",
+        "Item": "Patrol Car \nFour�door car (Sedan or\nHatchback) \nEngine displacement not exceeding 2000 cc\nfor gasoline \n\nFor highway patrol operations Patrol car\nwhere speed and stability are\ncritical when pursuing other speedy\nvehicles",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 363,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VE101B",
+        "Item": "Patrol Car \nFour�door car (Sedan or\nHatchback) \nEngine displacement not exceeding 2000 cc\nfor diesel \n\nFor highway patrol operations Patrol car\nwhere speed and stability are\ncritical when pursuing other speedy\nvehicles",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 364,
+        "APP_DBM_ID": 0,
+        "Slug": "25101702-VE2-01",
+        "Item": "Patrol Motorcycle \nSpecifications may vary according to the intended use of the agency and in consideration of the minimum specifications of motorcycles allowed in certain areas\n\nFor highway patrol operations Patrol car\nwhere speed and stability are\ncritical when pursuing other speedy\nvehicles",
+        "unit_of_measure": "unit",
+        "Type": "D. For Patrol Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES (Motor Vehicles)",
+        "Price": 0
+    },
+    {
+        "ID": 365,
+        "APP_DBM_ID": 1,
+        "Slug": "25101703-VF101A",
+        "Item": "MPV   \n(for conversion into a rescue vehicle\nequipped with the necessary equipment and apparatus) \nEngine displacement not exceeding 1500 cc for gasoline \n\nFor mobility purposes and\nimmediate response during disasters\nand calamities",
+        "unit_of_measure": "unit",
+        "Type": "F. For Disaster Response and Rescue/Relief Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 366,
+        "APP_DBM_ID": 0,
+        "Slug": "25101703-VF101B",
+        "Item": "MPV   \n(for conversion into a rescue vehicle\nequipped with the necessary equipment and apparatus) \nEngine displacement not exceeding 2500 cc for diesel\n\nFor mobility purposes and\nimmediate response during disasters\nand calamities",
+        "unit_of_measure": "unit",
+        "Type": "F. For Disaster Response and Rescue/Relief Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 367,
+        "APP_DBM_ID": 2,
+        "Slug": "25101507-VF201A",
+        "Item": "Pick-up \n(for conversion into a rescue vehicle\nequipped with the necessary equipment and apparatus)\nEngine displacement not exceeding 2200 cc for gasoline \n\nFor mobility purposes and\nimmediate response during disasters\nand calamities",
+        "unit_of_measure": "unit",
+        "Type": "F. For Disaster Response and Rescue/Relief Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 368,
+        "APP_DBM_ID": 0,
+        "Slug": "25101507-VF201B",
+        "Item": "Pick-up \n(for conversion into a rescue vehicle\nequipped with the necessary equipment and apparatus)\nEngine displacement not exceeding 3000 cc for diesel\n\nFor mobility purposes and\nimmediate response during disasters\nand calamities",
+        "unit_of_measure": "unit",
+        "Type": "F. For Disaster Response and Rescue/Relief Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 369,
+        "APP_DBM_ID": 3,
+        "Slug": "25101801-VF3-01",
+        "Item": "Motorcycle \nSpecifications may vary according to the intended use of the agency and in consideration of the minimum specifications of motorcycles allowed in certain areas\n\nFor mobility purposes and\nimmediate response during disasters\nand calamities",
+        "unit_of_measure": "unit",
+        "Type": "F. For Disaster Response and Rescue/Relief Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 370,
+        "APP_DBM_ID": 1,
+        "Slug": "25101705-VH1-01",
+        "Item": "Fire Truck\nCustom-built fire trucks\n( siler versions are built/manufactured locally) \nSpecifications may vary according to the manufacturer, model, intended use, etc., all pertinent data/specifications about the proposed fire truck must be supplied by the requesting agency.\n\nTo provide basic fire-fighting\ncapability to the Bureau of Fire\nProtection, and other government\nagencies whose functions and\noperations necessitate the\nmaintenance of a fire-fighting unit",
+        "unit_of_measure": "unit",
+        "Type": "H. For Fire Fighting Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    },
+    {
+        "ID": 371,
+        "APP_DBM_ID": 2,
+        "Slug": "25101705-VH2-01",
+        "Item": "Original Fire Truck\n(More sophisticated versions and fully equipped according to the intended\nuse)\nSpecifications may vary according to the manufacturer, model, intended use, etc., all pertinent data/specifications about the proposed fire truck must be supplied by the requesting agency.\n\n\nTo provide basic fire-fighting\ncapability to the Bureau of Fire\nProtection, and other government\nagencies whose functions and\noperations necessitate the\nmaintenance of a fire-fighting unit",
+        "unit_of_measure": "unit",
+        "Type": "H. For Fire Fighting Operations",
+        "Part": "PART I. AVAILABLE AT PROCUREMENT SERVICE STORES",
+        "Price": 0
+    }
+]
