@@ -62,7 +62,7 @@ return [
                 PDO::MYSQL_ATTR_SSL_CA => env('MYSQL_ATTR_SSL_CA'),
             ]) : [],
         ],
-        
+
         // SECONDARY DATABASE CONNECTION
         // SECONDARY DATABASE CONNECTION
         // SECONDARY DATABASE CONNECTION
@@ -71,9 +71,9 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => env('DB_HOST', '127.0.0.1'),
             'port' => env('DB_PORT', '3306'),
-            'database' => env('DB_DATABASE_2', 'db2'),
-            'username' => env('DB_USERNAME_2', 'root'),
-            'password' => env('DB_PASSWORD_2', ''),
+            'database' => env('DB_DATABASE_2', 'mysql'),
+            'username' => env('DB_USERNAME', 'root'),
+            'password' => env('DB_PASSWORD', ''),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',

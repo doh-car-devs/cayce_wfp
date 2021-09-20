@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -40,8 +41,6 @@ Route::group(['prefix' => 'export', 'as' => 'export'], function() {
     Route::get('/APPOffice/', 'PPMPController@generateAPPOffice')->name('.APPOffice');
     Route::get('/app/{fund_type?}/{year?}/{division?}/{section?}/{program?}' , 'PPMPController@createapp')->name('.app');
 
-    // delete
-    // delete
     // delete
     Route::get('dont/open/here/delete' , 'PPMPController@formatdelete')->name('.dont.open.here');
 });
